@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Edmund51/2paskaita/issues"
   },
-  "homepage": "https://github.com/Edmund51/2paskaita#readme"
+  "homepage": "https://github.com/Edmund51/2paskaita#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
